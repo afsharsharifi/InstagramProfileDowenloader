@@ -1,3 +1,4 @@
 autopep8==1.5.6
 Flask==1.1.2
 Jinja2==2.11.3
+instaloader==4.8.1
