@@ -1,9 +1,11 @@
-<a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://developer.android.com" target="_blank">
-    <img src="https://icons-for-free.com/download-icon-Flask-1324888719511065447_0.svg" alt="Flask" width="40" height="40"/>
-</a>
+<p>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="40" height="40"/>
+    </a>
+</p>
 # IGProfileDL
 ## Instagram Profile Downloader
 ### Description
