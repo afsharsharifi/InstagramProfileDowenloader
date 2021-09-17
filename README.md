@@ -6,7 +6,9 @@
         <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="40" height="40"/>
     </a>
 </p>
+
 # IGProfileDL
+
 ## Instagram Profile Downloader
 ### Description
 
