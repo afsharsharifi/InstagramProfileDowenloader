@@ -1,7 +1,8 @@
 <!-- Project Title -->
 <div align="center">
     <a href="#">
-        <img src="images/logo.png" alt="Logo" width="80" height="80">
+        <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
+        IGProfileDL
     </a>
     <h1>Instagram Profile Downloader</h1>
 </div>
