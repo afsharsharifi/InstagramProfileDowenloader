@@ -1,1 +1,2 @@
-/static/Profiles/*.*
+/static/Profiles/
+/__pycache__/
