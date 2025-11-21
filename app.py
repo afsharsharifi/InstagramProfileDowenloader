@@ -1,6 +1,5 @@
 import os
 from flask import Flask, request, render_template, redirect
-from flask.scaffold import F
 from instaloader import Instaloader
 from os import listdir, path
 from shutil import move, rmtree
@@ -33,7 +32,7 @@ def showResult():
     picName = listdir(username)[0]
 
     fullPathSRC = file_dir + "\\" + username + "\\" + picName
-    fullPathDEC = file_dir + "\\" + "static\Profiles"
+    fullPathDEC = file_dir + "\\" + "static\\Profiles"
     try:
         move(fullPathSRC, fullPathDEC)
         isSubmit = True
